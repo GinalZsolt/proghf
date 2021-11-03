@@ -1,0 +1,9 @@
+E:\prog\dinosugralosjacci\dinosugralosjacci\bin\Debug\dinosugralosjacci.exe.config
+E:\prog\dinosugralosjacci\dinosugralosjacci\bin\Debug\dinosugralosjacci.exe
+E:\prog\dinosugralosjacci\dinosugralosjacci\bin\Debug\dinosugralosjacci.pdb
+E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.csprojAssemblyReference.cache
+E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.Form1.resources
+E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.Properties.Resources.resources
+E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.csproj.GenerateResource.cache
+E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.exe
+E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.pdb
