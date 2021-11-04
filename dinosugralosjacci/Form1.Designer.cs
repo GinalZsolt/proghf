@@ -102,7 +102,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::dinosugralosjacci.Properties.Resources.jobbdino;
-            this.pictureBox1.Location = new System.Drawing.Point(17, 138);
+            this.pictureBox1.Location = new System.Drawing.Point(48, 135);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(36, 46);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

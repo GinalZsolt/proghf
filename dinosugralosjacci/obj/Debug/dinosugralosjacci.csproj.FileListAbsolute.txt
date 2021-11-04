@@ -7,3 +7,13 @@ E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.Properti
 E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.csproj.GenerateResource.cache
 E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.exe
 E:\prog\dinosugralosjacci\dinosugralosjacci\obj\Debug\dinosugralosjacci.pdb
+D:\git-proghf\dinosugralosjacci\bin\Debug\dinosugralosjacci.exe.config
+D:\git-proghf\dinosugralosjacci\bin\Debug\dinosugralosjacci.exe
+D:\git-proghf\dinosugralosjacci\bin\Debug\dinosugralosjacci.pdb
+D:\git-proghf\dinosugralosjacci\obj\Debug\dinosugralosjacci.csprojAssemblyReference.cache
+D:\git-proghf\dinosugralosjacci\obj\Debug\dinosugralosjacci.Form1.resources
+D:\git-proghf\dinosugralosjacci\obj\Debug\dinosugralosjacci.Properties.Resources.resources
+D:\git-proghf\dinosugralosjacci\obj\Debug\dinosugralosjacci.csproj.GenerateResource.cache
+D:\git-proghf\dinosugralosjacci\obj\Debug\dinosugralosjacci.csproj.CoreCompileInputs.cache
+D:\git-proghf\dinosugralosjacci\obj\Debug\dinosugralosjacci.exe
+D:\git-proghf\dinosugralosjacci\obj\Debug\dinosugralosjacci.pdb
