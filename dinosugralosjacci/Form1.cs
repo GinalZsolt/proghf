@@ -92,6 +92,7 @@ namespace dinosugralosjacci
             gravitacio = false;
             pont = 0;
             label2.Text = pont.ToString();
+            // code
         }
     }
 }
