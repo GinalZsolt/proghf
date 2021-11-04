@@ -93,7 +93,7 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.Image = global::dinosugralosjacci.Properties.Resources.cactus;
-            this.pictureBox2.Location = new System.Drawing.Point(333, 144);
+            this.pictureBox2.Location = new System.Drawing.Point(377, 144);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(30, 48);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

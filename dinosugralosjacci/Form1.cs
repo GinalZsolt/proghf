@@ -64,7 +64,7 @@ namespace dinosugralosjacci
             }
             if (pictureBox2.Location.X+pictureBox2.Width<=0)
             {
-                pictureBox2.Location = new Point(400, 138);
+                pictureBox2.Location = new Point(377, 144);
                 pont++;
                 label2.Text = pont.ToString();
             }
